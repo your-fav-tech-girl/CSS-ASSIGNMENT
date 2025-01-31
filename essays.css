@@ -1,0 +1,45 @@
+   *{
+margin:0;
+padding:0;
+box-sizing: border-box;
+font-family: "PT Serif", ui-sans-serif, system-ui,Helvetica Neue, Arial, Noto Sans,
+ sans-serif, "Apple Color Emoji","Segoe UI Emoji", Segoe UI Symbol, "Noto Color Emoji";
+}
+
+.container{
+background-color: rgb(30, 29, 29);
+color:white;
+border-bottom:10px solid rgb(255, 255, 255);
+min-height:23rem;
+width:50%;
+position: relative;
+margin:100px 300px;
+outline: #ebe9e9 solid 10px;
+}
+
+.otter{
+font-size:0.8rem;
+color:black;
+background-color: rgb(255, 30, 139);
+width:16rem;
+padding:1rem;
+border-radius:3px;
+position: absolute;
+top: 80px;
+left:90px;
+z-index:1;
+text-align: center;
+}
+.essay{
+position: absolute;
+top:100px;
+left:60px;
+background-color: white;
+color: black;
+width:20rem;
+padding:4rem 1rem 2rem 2rem;
+border-radius:10px;
+font-size:0.9rem ;
+font-weight:500;
+
+}
