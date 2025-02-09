@@ -35,12 +35,12 @@
     }
     .ID{
     font-size:1.5rem ;
-    margin-bottom: 20px;
+    margin-bottom: 50px;
     }
     .buttn{
     background-color:indigo;
     padding: 10px 10px;
-    margin: 20px;
+    margin:0px 20px;
     color:white ;
     border:1px solid burlywood ;
     border-radius:5px;
