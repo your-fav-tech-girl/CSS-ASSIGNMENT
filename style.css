@@ -48,3 +48,25 @@
     .buttn a{
     color:white;
     }
+    @media screen and (max-width: 1024px) {
+     li a{
+      padding: 60px;
+  
+     }
+      li{
+      display:block;
+      
+      }
+      }
+
+    @media screen and (max-width: 768px) {
+      li{
+      display: block;
+      }
+      }
+
+    @media screen and (max-width: 500px) {
+    li{
+    display: block;
+    }
+    }
